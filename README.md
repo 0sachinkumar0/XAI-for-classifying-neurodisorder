@@ -1,0 +1,3 @@
+# XAI-for-classifying-neurodisorder
+
+Explainable AI (XAI) is vital in healthcare and neuroscience, especially when using EEG data to detect conditions like schizophrenia. Rather than relying on black-box models, XAI makes machine learning decisions transparent and trustworthy. By extracting statistical features from EEG signals, the model classifies brain activity as healthy or schizophrenic. Techniques like SHAP, PDP, and LIME explain how each feature influences the result, ensuring clinicians understand and trust the AI's decisions. This clarity supports clinical adoption, regulatory approval, and new discoveries about brain function—turning AI from a mysterious tool into a reliable partner in medical decision-making.
